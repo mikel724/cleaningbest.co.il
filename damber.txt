@@ -1060,7 +1060,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-12 px-1"><a href="https://t.ly/E-7G_" target="_blank"
                         rel="noopener noreferrer" class="button-cta btn-register"> DAFTAR VIP </a></div>
-                <div class="col-lg-4 col-sm-12 px-1"><a href="https://mrtech-amp.pages.dev/" target="_blank"
+                <div class="col-lg-4 col-sm-12 px-1"><a href="https://takeiteasy.site/sminfozzle.testingweblink.com/" target="_blank"
                         rel="noopener noreferrer" class="button-cta btn-alt-link"> LINK ALTERNATIF </a></div>
             </div>
         </div>
